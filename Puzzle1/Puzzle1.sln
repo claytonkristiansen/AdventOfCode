@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Puzzle1", "Puzzle1\Puzzle1.vcxproj", "{0E7EAE24-D717-4EB1-8730-26398D5966F3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assets", "Assets", "{D5FC84B6-6216-40C8-A3E1-87D2EDCD1609}"
+	ProjectSection(SolutionItems) = preProject
+		..\Assets\FrequencyChanges.txt = ..\Assets\FrequencyChanges.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
