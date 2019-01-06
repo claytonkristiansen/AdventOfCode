@@ -7,7 +7,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Puzzle1", "Puzzle1\Puzzle1.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assets", "Assets", "{D5FC84B6-6216-40C8-A3E1-87D2EDCD1609}"
 	ProjectSection(SolutionItems) = preProject
+		..\Assets\BoxIDs.txt = ..\Assets\BoxIDs.txt
+		..\Assets\FabricClaims.txt = ..\Assets\FabricClaims.txt
 		..\Assets\FrequencyChanges.txt = ..\Assets\FrequencyChanges.txt
+		..\Assets\Guards.txt = ..\Assets\Guards.txt
 	EndProjectSection
 EndProject
 Global
